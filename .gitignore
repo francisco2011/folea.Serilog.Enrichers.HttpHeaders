@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/folea.Serilog.Enrichers/bin/Debug/netcoreapp3.1
+/folea.Serilog.Enrichers/obj
+/folea.Serilog.Enrichers/.vs/Common.Serilog.Custom
+/folea.Serilog.Enrichers/.vs/folea.Serilog.Enrichers.HttpHeaders
